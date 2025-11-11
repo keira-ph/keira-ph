@@ -27,7 +27,7 @@ Outside of engineering, I’m a **Dungeon Master** and an **occasional Warlock**
 
 ---
 
-### 🚀 Highlighted Projects
+### 🚀 My Projects
 
 | 🧠 Project | 🔍 Description | 💼 Repo |
 |------------|----------------|---------|
@@ -37,8 +37,18 @@ Outside of engineering, I’m a **Dungeon Master** and an **occasional Warlock**
 | **Blood Cell Classification with Neural Networks** | CNN-based deep learning model for multi-class classification of eight blood cell types | [ANNDL-Homework1](https://github.com/keira-ph/Artificial-Neural-Networks-and-Deep-Learning-2024-2025---Homework-1) |
 | **GDP & Inflation Forecasting** | Bayesian time series modeling with AR/VAR and MCMC sampling | [BLAMS_Project](https://github.com/SergioPardo55/BLAMS_Project) |
 | **Agentic AI for CV Screening** | Multi-agent system for automated CV analysis, explainable and bias-free | [Accenture-Agentic-AI-CV-Screening](https://github.com/keira-ph/Accenture-Agentic-AI-CV-Screening-) |
+| **Recommender Systems Challenge** | Book recommendation competition using collaborative filtering and user-item interaction modeling | [Recommender-Systems-2024-Challenge-Polimi](https://github.com/keira-ph/Recommender-Systems-2024-Challenge-Polimi) |
+| **Crime Data Analysis with Neo4j** | Graph-based analysis of Mexican crime statistics (2015–2023) using Neo4j for insight discovery | [Neo4j-SMBUD-Project](https://github.com/keira-ph/Neo4j-SMBUD-Project) |
+| **CodeKataBattle Platform Design** | Requirement and design documentation (RASD & DD) for a competitive programming platform | [FossaGalbiati](https://github.com/Francesco4Galbiati/FossaGalbiati) |
+| **Web App – Thin & Thick Client** | Full-stack web app with pure HTML and JavaScript versions, backed by MySQL | [TIW_WebApp](https://github.com/keira-ph/TIW_WebApp) |
+| **Environment Mapping for Robot Navigation** | C++ ROS project using Lidar data to map environments and publish navigation goals | [Robotics-Project2](https://github.com/Francesco4Galbiati/robotics2023-SecondProject-Fossa-Gabriele-Galbiati) |
+| **Odometry for Autonomous Vehicles** | ROS-based odometry computation system for autonomous driving | [Robotics-Project1](https://github.com/Francesco4Galbiati/robotics2023-FirstProject-Fossa-Gabriele-Galbiati) |
+| **MyShelfie Board Game** | Java client–server implementation of the “MyShelfie” board game using MVC, RMI, and JavaFX | *Private Repository (Developed with Cranium)* |
+| **Digital Logic Design (VHDL)** | Hardware design project in VHDL using Vivado for logic circuit development | [ProjectVHDL-Reti_Logiche_22-23](https://github.com/keira-ph/ProjectVHDL-Reti_Logiche_22-23) |
+| **Smith–Waterman on GPU** | CUDA-accelerated Smith–Waterman sequence alignment for GPU performance optimization | [GPU101Project_Fossa-Chiara](https://github.com/keira-ph/GPU101Project_Fossa-Chiara_Implementazione-algoritmoSMITH-WATERMAN) |
+| **Wordle in C** | C implementation of Wordle using optimized data structures and path-finding algorithms | *Final Project* |
 
-➡️ You can find more projects [here on my profile](https://github.com/keira-ph).
+
 
 ---
 
