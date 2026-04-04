@@ -3,7 +3,7 @@
 
 🧠 MSc graduate in **Computer Science Engineering** at [Politecnico di Milano](https://www.polimi.it)  
 🤖 Specialized in **Artificial Intelligence & Machine Learning Engineering**  
-📍 **MSc thesis** developed in collaboration with **EssilorLuxottica (SEL)**
+📍 **MSc thesis** developed in collaboration with **EssilorLuxottica (SEL)**  
 💬 Passionate about **AI systems**, **data-driven design**, and **ethical automation**  
 
 ---
