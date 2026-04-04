@@ -1,16 +1,16 @@
 
 ## Hi, I'm Chiara ✨
 
-🧠 MSc student in **Computer Science Engineering** at [Politecnico di Milano](https://www.polimi.it)  
-🤖 Specializing in **Artificial Intelligence & Machine Learning Engineering**  
-📍 Currently working on my **Master’s thesis @ EssilorLuxottica (SEL)**  
+🧠 MSc graduate in **Computer Science Engineering** at [Politecnico di Milano](https://www.polimi.it)  
+🤖 Specialized in **Artificial Intelligence & Machine Learning Engineering**  
+📍 **MSc thesis** developed in collaboration with **EssilorLuxottica (SEL)** 
 💬 Passionate about **AI systems**, **data-driven design**, and **ethical automation**  
 
 ---
 
 ### 👩‍💻 About Me
 
-I’m an AI & ML enthusiast who loves exploring how intelligent systems can make technology more human... and more creative.  
+I’m an AI & Machine Learning engineer with a strong interest in building intelligent systems that make technology more human... and more creative. 
 My academic and project experience ranges from **deep learning and NLP** to **multi-agent systems** and **Bayesian methods**.  
 Outside of engineering, I’m a **Dungeon Master** and an **occasional Warlock**, bringing strategy and storytelling into everything I do. 🧙‍♀️
 
@@ -59,12 +59,11 @@ Outside of engineering, I’m a **Dungeon Master** and an **occasional Warlock**
 
 ---
 ### 🧭 Current Focus
-
-🎯 Conducting my **Master’s thesis at EssilorLuxottica (SEL)**, focusing on **gaze tracking** through **event-based cameras** — exploring how **computer vision** and **deep learning** can interpret human attention in real time.  
-🧠 Working on **eye detection and motion analysis** under neuromorphic vision paradigms to improve precision, latency, and energy efficiency in gaze estimation systems.  
-📚 Deepening my expertise in **computer vision**, **neural architectures**, and **bio-inspired sensing technologies**.  
-🚀 Passionate about bridging **AI research** and **human-centered innovation**, where perception meets intelligent automation.  
-
+  
+🎯 Completed my **MSc thesis at EssilorLuxottica (SEL)**, focusing on **gaze tracking** using **event-based cameras** on **wearable devices**  
+🧠 Worked on **eye detection and motion analysis** under neuromorphic vision paradigms to improve precision, latency, and energy efficiency  
+📚 Currently deepening my expertise in computer vision, neural architectures, and real-time AI systems  
+🚀 Seeking opportunities in **AI/ML engineering, applied research, and data-driven software development**, where I can combine technical skills with human-centered innovation.
 
 ---
 
